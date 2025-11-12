@@ -200,7 +200,7 @@ Be aware that installing the game on a Steam Deck can be a slow process and can 
 On the Deck side, performance has been found to improve significantly when the Deck's GPU clock is manually set to its maximum value via Gamescope, even if the game appears to be primarily CPU bottlenecked. Be aware that maintaining the target frame rate may be difficult during demanding sections, such as Werehog combat or DLC stages. Overall, performance is considered to be noticeably better than on the original hardware while using the default settings.
 
 > [!NOTE]
-> It is recommended to perform the installation process while in Desktop Mode, as the [file picker may not be available in Game Mode](#file-picker-unavailable-on-steam-deck-in-game-mode) at all times.
+> It is recommended to perform the installation process while in Desktop Mode, as the [file picker may not be available in Game Mode](#file-picker-unavailable-on-steamos-in-game-mode) at all times.
 
 ### Mod Support
 
