@@ -191,13 +191,13 @@ Many options have been integrated to address some common quality of life improve
 > [!NOTE]
 > Please note that Music Attenuation is not currently available on Linux. Support for this feature may be added in a future update.
 
-### Steam Deck Support
+### SteamOS Support
 
-Native Linux builds that work on the Steam Deck out of the box are available. The Flatpak version can be installed directly and added as a non-Steam game easily via Desktop Mode.
+Native Linux builds that work on SteamOS systems out of the box are available. The Flatpak version can be installed directly and added as a non-Steam game easily via Desktop Mode.
 
 Be aware that installing the game on a Steam Deck can be a slow process and can easily consume the Deck's storage on the 64 GB model, so make sure you provide the game's files via external storage, such as a microSD card or a network share if possible.
 
-Performance has been found to improve significantly when the Deck's GPU clock is manually set to its maximum value via Gamescope, even if the game appears to be primarily CPU bottlenecked. Be aware that maintaining the target frame rate may be difficult during demanding sections, such as Werehog combat or DLC stages. Overall, performance is considered to be noticeably better than on the original hardware while using the default settings.
+On the Deck side, performance has been found to improve significantly when the Deck's GPU clock is manually set to its maximum value via Gamescope, even if the game appears to be primarily CPU bottlenecked. Be aware that maintaining the target frame rate may be difficult during demanding sections, such as Werehog combat or DLC stages. Overall, performance is considered to be noticeably better than on the original hardware while using the default settings.
 
 > [!NOTE]
 > It is recommended to perform the installation process while in Desktop Mode, as the [file picker may not be available in Game Mode](#file-picker-unavailable-on-steam-deck-in-game-mode) at all times.
@@ -273,11 +273,11 @@ Visual oddities may occur when unlocking the aspect ratio during cutscenes, as t
 
 Game bugs present on the original hardware are intentionally preserved and will not be fixed. Please do not report issues for these bugs and verify that the issue does not occur on original hardware before reporting. Bug reports for issues found in the original game will be rejected. Bugs that only happen in Unleashed Recompiled must be accompanied by footage captured on original Xbox 360 hardware showing that the bug does not happen there.
 
-### File Picker Unavailable on Steam Deck in Game Mode
+### File Picker Unavailable on SteamOS in Game Mode
 
-Due to some restrictions of how the desktop environment on the Steam Deck works whilst in Game Mode, please note that you may need to at least first boot into Desktop Mode to be able to use the file picker to provide the game files.
+Due to some restrictions of how the desktop environment on SteamOS systems works whilst in Game Mode, please note that you may need to at least first boot into Desktop Mode to be able to use the file picker to provide the game files.
 
-Simply booting at least once in Desktop Mode will enable the Deck to use the file picker when going back to Game Mode. You can complete the entire installation process while in Desktop Mode to save yourself the trouble of browsing through Game Mode if necessary.
+Simply booting at least once in Desktop Mode will enable the system to use the file picker when going back to Game Mode. You can complete the entire installation process while in Desktop Mode to save yourself the trouble of browsing through Game Mode if necessary.
 
 ## FAQ
 
